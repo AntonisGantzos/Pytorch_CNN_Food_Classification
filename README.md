@@ -12,8 +12,7 @@
   - Run the notebook in Jupyter.
   
 # Prerequisites
-  Python 3.x
-  PyTorch
-  Jupyter Notebook
-  Learning Outcomes
-  Learn to implement and train CNNs for image classification tasks using PyTorch.
+  - Python 3.x
+  - PyTorch
+  - Jupyter Notebook
+  
