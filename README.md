@@ -7,9 +7,9 @@
   Training & Evaluation: Training the model and evaluating its performance on test data.
 
 # How to Use
-  Clone the repository.
-  Install dependencies using pip install -r requirements.txt.
-  Run the notebook in Jupyter.
+  - Clone the repository.
+  - Install dependencies using pip install -r requirements.txt.
+  - Run the notebook in Jupyter.
   
 # Prerequisites
   Python 3.x
